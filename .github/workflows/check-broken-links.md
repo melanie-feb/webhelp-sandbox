@@ -6,7 +6,7 @@ assignees: ''
 
 ## Broken Links Detected
 
-Broken Link Checker found broken links on https://help.hcltechsw.com/workloadautomation/v1021/index.html
+Broken Link Checker found broken links on https://opensource.hcltechsw.com/digital-experience/CF216/ 
 
 [View Results](https://github.com/melanie-feb/melanie-feb.github.io-content/actions/workflows/check-broken-links.yml)
 
