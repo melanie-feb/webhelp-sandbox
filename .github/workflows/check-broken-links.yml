@@ -4,7 +4,7 @@ on:
     - cron:  '12 1 * * 5'
   workflow_dispatch:
 env:
-  WEBSITE_URL: "https://help.hcltechsw.com/workloadautomation/v1021/index.html"
+  WEBSITE_URL: "https://opensource.hcltechsw.com/digital-experience/CF216/"
   ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
 
 jobs:
