@@ -1,7 +1,7 @@
  ---
 title: Website Contains Broken Links
-labels: JasonEtco
-assignees: broken
+labels: bug
+assignees: JasonEtco
 ---
 
 ## Broken Links Detected
